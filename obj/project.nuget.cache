@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EdjHec75KtDAys3b+h7zU2mbM6BxlPcfI7P08H45MXNwLXKTy8onsJUj1zjuBTY+7WueGGzSi0HWmmjjvro+9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guita\\consoleapp\\consoleapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guita\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\guita\\.nuget\\packages\\humanizer.core.es\\2.14.1\\humanizer.core.es.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
